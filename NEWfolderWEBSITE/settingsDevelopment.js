@@ -1,4 +1,4 @@
-import {createElementNS, setAttribute, appendChild} from './functions.js';
+import {createElementNS, setAttribute, appendChild} from './Functions.js';
 import {anchorList, videoPathList, innitBoxPathList, innitMaskList, videoNameList} from './inputUpdateNeeded.js'
 
 export function createSettingsElement(i) {
