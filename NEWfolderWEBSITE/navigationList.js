@@ -15,7 +15,6 @@ function formatItem(item) {
 
 // Get the unordered list element
 const myList = document.getElementById("myList");
-console.log(tomasVideoNameList[1])
 // Loop through the items list and create the list elements
 for (const item of tomasVideoNameList) {
   // Create the list item and anchor elements
