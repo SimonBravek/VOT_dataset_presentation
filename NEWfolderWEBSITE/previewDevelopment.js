@@ -1,4 +1,4 @@
-import {createElementNS, setAttribute, appendChild} from './functions.js'
+import {createElementNS, setAttribute, appendChild} from './elementFunctions.js'
 import {videoNameList, videoPathList} from './inputUpdateNeeded.js';
 
 const videoBody = document.querySelector(".video-body");
