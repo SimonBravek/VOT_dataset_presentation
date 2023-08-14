@@ -1,4 +1,4 @@
-import { tomasVideoNameList } from './inputUpdateNeeded.js';
+import { tomasVideoNameList } from 'inputUpdateNeeded.js';
 
 // // Function to capitalize the first letter, remove numbers, and replace underscores with spaces and Create the list more readable
 function formatItem(item) {
