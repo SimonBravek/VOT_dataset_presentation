@@ -1,4 +1,4 @@
-# VOT_dataset_presentation_3
+# VOT_dataset_presentation
 This is the third version of VOT web 2023 and future dataset presentation creation guide. I'll try to summorize what me and Tomas Peterka did on this project and handle it over to the Matěj Marek. Hopefully finished...
 
 
